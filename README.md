@@ -10,6 +10,8 @@ In addition, all AudioKit repos should have:
 * Workflow compiling the package and/or demo
 * Recent tag with version number x.y.z
 * .spi.yml file and an entry on https://swiftpackageindex.com
+* Social Preview Image
+* Webhooks to Discord
 * Regular swiftformat passthrough 
 
 ## Documentation
