@@ -11,10 +11,10 @@ In addition, all AudioKit repos should have:
 ## Tests
 
 * 100% test coverage is the goals
+* Indicating of tests passing, number of tests on Readme
 
 ## Use cases
 
-* Tests
 * Playground
 * Demo Project
 
