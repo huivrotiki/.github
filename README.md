@@ -6,6 +6,7 @@ In addition, all AudioKit repos should have:
 * Tests
 * Playground
 * Demo Project
+* ISSUE_TEMPLATE folder in .github with specifics for that repo
 * Workflow compiling the package and/or demo
 * Recent tag with version number x.y.z
 * .spi.yml file and an entry on https://swiftpackageindex.com
