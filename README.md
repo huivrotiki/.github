@@ -3,6 +3,12 @@ Default Github files
 
 In addition, all AudioKit repos should have:
 
+
+## Imagery
+
+* At least a screenshot
+* Ideally an animated png
+
 ## Clean code
 
 * Regular swiftformat passthrough 
