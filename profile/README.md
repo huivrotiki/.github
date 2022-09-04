@@ -2,10 +2,6 @@ The AudioKit organization has created and maintains many repositories. It's impo
 
 Repositories and visualization repos depend on AudioKit as the core:
 
-![](https://img.shields.io/github/stars/AudioKit/AudioKit?label=)
-![](https://img.shields.io/github/forks/AudioKit/AudioKit?label=)
-
-
 | Repository | Release | Stars | Tests | Swift | Platforms |
 | ---------- | ------- | ----- |------ | ----- | --------- |
 | [AudioKit](https://github.com/AudioKit/AudioKit)                   | [![](https://img.shields.io/github/v/tag/AudioKit/AudioKit?label=&color=black)](https://github.com/AudioKit/AudioKit/tags)                   | [![](https://img.shields.io/github/stars/AudioKit/AudioKit?label=&color=black)](https://github.com/AudioKit/AudioKit/tags)                   | [![](https://github.com/AudioKit/AudioKit/actions/workflows/tests.yml/badge.svg)](https://github.com/AudioKit/AudioKit/actions/workflows/tests.yml)                   | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FAudioKit%2FAudioKit%2Fbadge%3Ftype%3Dswift-versions&label=&color=black)](https://swiftpackageindex.com/AudioKit/AudioKit)                   | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FAudioKit%2FAudioKit%2Fbadge%3Ftype%3Dplatforms&label=&color=black)](https://swiftpackageindex.com/AudioKit/AudioKit) |
