@@ -1,3 +1,4 @@
+The AudioKit organization created and maintains many repositories. Here's an overview:
 
 | Repository | Tests | Version | Swift | Platforms |
 | ---------- | ----- | ------- | ----- | --------- |
