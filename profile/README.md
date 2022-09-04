@@ -1,4 +1,4 @@
-The AudioKit organization created and maintains many repositories. Here's an overview:
+The AudioKit organization has created and maintains many repositories. It's important to us that our work is tested and proved to build successfully across as many platforms as possible using Github's "Actions" continuous integration system.
 
 | Repository | Tests | Version | Swift | Platforms |
 | ---------- | ----- | ------- | ----- | --------- |
